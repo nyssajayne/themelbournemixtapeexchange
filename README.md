@@ -14,12 +14,12 @@ Instead of displaying the entries on the front page in a traditional way, with h
 The entry is then displayed in full on its single.php page.
 
 Theme includes:
-index.php
-header.php
-footer.php
-single.php
-page.php
-functions.php
-style.css
+index.php, 
+header.php, 
+footer.php, 
+single.php, 
+page.php 
+functions.php, 
+style.css.
 
 Theme excludes assets such as graphics and fonts.  It does include an external Infinity Scroll plugin.
