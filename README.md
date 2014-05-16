@@ -18,7 +18,7 @@ index.php,
 header.php, 
 footer.php, 
 single.php, 
-page.php 
+page.php,
 functions.php, 
 style.css.
 
