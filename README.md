@@ -3,8 +3,6 @@ themelbournemixtapeexchange
 
 The Melbourne Mixtape Exchange Wordpress Theme
 
-View the theme in action at http://www.themelbournemixtapeexchange.com
-
 The Melbourne Mixtape Exchange is a blog-based site, with some static pages.
 
 The co-creators of The Melbourne Mixtape Exchanged required their design to be coded, along with a corresponding CMS, so that they could add and manage content quickly and easily.
